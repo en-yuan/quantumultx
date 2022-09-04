@@ -1,3 +1,10 @@
+# 最右IP替换
+HOST-SUFFIX,izuiyou.com,proxy
+
+# 抖音IP替换
+HOST-SUFFIX,amemv.com,proxy
+HOST-SUFFIX,snssdk.com,proxy
+
 # ======= 哔哩哔哩 ======= #
 HOST-SUFFIX,biliapi.net,proxy
 HOST-SUFFIX,biliapi.com,proxy 
