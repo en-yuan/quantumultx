@@ -42,6 +42,7 @@ HOST,szshort.weixin.qq.com,direct
 HOST,szextshort.weixin.qq.com,direct
 HOST,szminorshort.weixin.qq.com,direct
 HOST,mp.weixin.qq.com,direct 
+HOST-SUFFIX,wxsnsdy.wxs.qq.com,direct
 
 # ======= 知乎 ======= #
 HOST-SUFFIX,zhihu.com,direct
