@@ -38,10 +38,10 @@ HOST,hm.baidu.com,proxy
 HOST,www.baidu.com,proxy
  
 # ======= 微信 ======= #
-#HOST,szshort.weixin.qq.com,proxy
-#HOST,szextshort.weixin.qq.com,proxy
-#HOST,szminorshort.weixin.qq.com,proxy
-#HOST,mp.weixin.qq.com,proxy 
+HOST,szshort.weixin.qq.com,direct
+HOST,szextshort.weixin.qq.com,direct
+HOST,szminorshort.weixin.qq.com,direct
+HOST,mp.weixin.qq.com,direct 
 
 # ======= 知乎 ======= #
 HOST-SUFFIX,zhihu.com,direct
