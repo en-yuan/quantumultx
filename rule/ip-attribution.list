@@ -20,7 +20,7 @@ HOST,cm.bilibili.com,proxy
 HOST-SUFFIX,bilibili.com,proxy 
 HOST-SUFFIX,im9.com,proxy 
 HOST-SUFFIX,acg.tv,proxy 
-HOST-SUFFIX,biligame.com,proxy 
+HOST-SUFFIX,biligame.com,proxy
 
 # ======= 微博 ======= #
 HOST,api.weibo.cn,proxy
@@ -44,11 +44,16 @@ HOST,szminorshort.weixin.qq.com,proxy
 HOST,mp.weixin.qq.com,proxy 
 
 # ======= 知乎 ======= #
-#HOST,zhihu-web-analytics.zhihu.com,proxy
-#HOST,www.zhihu.com,proxy
-#HOST,api.zhihu.com,proxy
+HOST,zhihu-web-analytics.zhihu.com,proxy
+HOST,www.zhihu.com,proxy
+HOST,api.zhihu.com,proxy
 HOST-SUFFIX,zhihu.com,proxy
-IP-CIDR,103.41.167.0/24,proxy
+
+IP-CIDR,118.89.204.198/443,proxy
+IP-CIDR,103.41.167.234/443,proxy
+IP-CIDR,103.41.167.0/24,proxy 
+IP-CIDR,43.132.80.14/443,proxy
+IP-CIDR,107.155.58.90/443,proxy
 
 # ======= 国家反诈中心 ======= #
 HOST-SUFFIX,gjfzpt.cn,REJECT 
@@ -109,29 +114,3 @@ HOST,ngabbs.com,proxy
 
 # ======= 小米社区 ======= #
 HOST-SUFFIX,vip.miui.com,proxy
-
-# ======= 网易云音乐======= #
-HOST-SUFFIX,music.163.com,proxy
-HOST,nstool.netease.com,proxy
-HOST,wanproxy.127.net,proxy
-HOST,mam.netease.com,proxy
-HOST,dt.netease.im,proxy
-HOST,api.iplay.163.com,proxy
-HOST,api.k.163.com,proxy
-HOST,lbs.netease.im,proxy
-HOST,wannos.127.net,proxy
-HOST,ac.dun.163.com,proxy
-HOST-SUFFIX,music.126.net,proxy
-HOST-SUFFIX,laiqukankan.com,proxy
-HOST-SUFFIX,music.ntes53.netease.com,proxy
-IP-CIDR,101.71.154.241/32,proxy
-IP-CIDR,103.126.92.132/32,proxy
-IP-CIDR,103.126.92.133/32,proxy
-IP-CIDR,112.13.119.18/32,proxy
-IP-CIDR,112.13.122.4/32,proxy
-IP-CIDR,115.236.118.34/32,proxy
-IP-CIDR,115.236.121.4/32,proxy
-IP-CIDR,45.254.48.1/32,proxy
-IP-CIDR,59.111.160.195/32,proxy
-IP-CIDR,59.111.19.33/32,proxy
-IP-CIDR,59.111.19.53/32,proxy
