@@ -53,7 +53,6 @@ IP-CIDR,43.132.80.14/443,proxy
 IP-CIDR,107.155.58.90/443,proxy
 IP-CIDR,103.41.167.234/443,proxy
 IP-CIDR,103.41.167.0/24,proxy
-IP-CIDR,118.89.204.198/443,proxy
 
 # ======= 国家反诈中心 ======= #
 HOST-SUFFIX,gjfzpt.cn,REJECT 
