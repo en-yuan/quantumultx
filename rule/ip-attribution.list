@@ -47,8 +47,12 @@ HOST,mp.weixin.qq.com,proxy
 HOST,zhihu-web-analytics.zhihu.com,proxy
 HOST,www.zhihu.com,proxy
 HOST,api.zhihu.com,proxy
+HOST,appcloud.zhihu.com,proxy
+HOST,appcloud2.zhihu.com,proxy
 HOST-SUFFIX,zhihu.com,proxy
+HOST-SUFFIX,zhimg.com,proxy
 HOST-KEYWORD,zhihu,proxy
+HOST-KEYWORD,zhi,proxy
 
 IP-CIDR,103.41.167.0/24,proxy
 
