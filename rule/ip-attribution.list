@@ -1,5 +1,6 @@
 # 最右IP替换
 HOST-SUFFIX,izuiyou.com,proxy
+host-suffix, ixiaochuan.cn, proxy
 
 # 抖音IP替换
 HOST-SUFFIX,amemv.com,proxy
