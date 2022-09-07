@@ -46,8 +46,8 @@ HOST,mp.weixin.qq.com,direct
 HOST-SUFFIX,wxsnsdy.wxs.qq.com,direct
 
 # ======= 知乎 ======= #
-HOST-SUFFIX,zhihu.com,direct
-HOST-SUFFIX,zhimg.com,direct
+HOST-SUFFIX,zhihu.com,proxy
+HOST-SUFFIX,zhimg.com,proxy
 IP-CIDR,103.41.167.226/32,proxy
 IP-CIDR,103.41.167.234/31,proxy
 IP-CIDR,103.41.167.236/32,proxy
